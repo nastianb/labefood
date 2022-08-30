@@ -7,7 +7,7 @@
 <br>
   
 ## :dart: Objetivo do projeto:
-O projeto é baseado em aplicativos de comida (iFood, UberEats e Rappi) e é do tipo mobile first. O nosso projeto foi desenvolvido com base no layout elaborado pela designer Camila Mizutani (no qual o aplicativo UberEats foi usado como referência). Por ser o último projeto do módulo frontend do bootcamp de desenvolvimen web da Labenu, o intuito principal é aplicar todo o conhecimento adquirido ao longo dos últimos 3 meses em um projeto complexo e completo, totalmente funcional. 
+O projeto é baseado em aplicativos de comida (iFood, UberEats e Rappi) e é do tipo mobile first. O projeto foi desenvolvido com base no layout elaborado pela designer Camila Mizutani (no qual o aplicativo UberEats foi usado como referência). Por ser o último projeto do módulo frontend do bootcamp de desenvolvimen web da Labenu, o intuito principal é aplicar todo o conhecimento adquirido ao longo dos últimos 3 meses em um projeto complexo e completo, totalmente funcional. 
 
 ## ✍️ Layout:
 O layout foi desenvolvido pela designer Camila Mizutani e pode ser acessado [clicando aqui](https://)
