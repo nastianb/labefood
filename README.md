@@ -46,6 +46,6 @@ Acesse nosso site [clicando aqui!](https://labefood5-shaw.surge.sh)
 ![image](https://user-images.githubusercontent.com/50851374/169714056-f3102254-d6fb-4241-afec-b8ee3ce66b74.png)
 
 ![Captura de tela de 2022-08-10 10-32-02](https://user-images.githubusercontent.com/80003041/183868263-e1b55892-635c-4ebb-9929-1c8d8b32e6a5.png)
-![Captura de tela de 2022-08-10 10-31-09](https://user-images.githubusercontent.com/80003041/183868336-618bed71-7717-498e-a96a-cf6168c41716.png)
+
 
 
